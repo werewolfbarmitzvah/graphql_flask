@@ -1,0 +1,7 @@
+sqlalchemy
+graphene
+graphene-sqlalchemy
+flask
+flask-graphql
+pytest-flask
+pytest-mock
